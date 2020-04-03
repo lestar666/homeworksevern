@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cannytext", "cannytext\cannytext.vcxproj", "{A1B187CD-57AB-4B64-A2E3-08A01A361E6A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rotationzoom", "rotationzoom\rotationzoom.vcxproj", "{5D8356F2-AAA7-4459-9297-936202CA2F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A1B187CD-57AB-4B64-A2E3-08A01A361E6A}.Release|x64.Build.0 = Release|x64
 		{A1B187CD-57AB-4B64-A2E3-08A01A361E6A}.Release|x86.ActiveCfg = Release|Win32
 		{A1B187CD-57AB-4B64-A2E3-08A01A361E6A}.Release|x86.Build.0 = Release|Win32
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Debug|x64.ActiveCfg = Debug|x64
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Debug|x64.Build.0 = Debug|x64
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Debug|x86.Build.0 = Debug|Win32
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Release|x64.ActiveCfg = Release|x64
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Release|x64.Build.0 = Release|x64
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Release|x86.ActiveCfg = Release|Win32
+		{5D8356F2-AAA7-4459-9297-936202CA2F72}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
