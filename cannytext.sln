@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rotationzoom", "rotationzoo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "affinetransfromation", "affinetransfromation\affinetransfromation.vcxproj", "{B6F0E694-D2A4-4A98-9198-5FF8A995594B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projectiontransformation", "projectiontransformation\projectiontransformation.vcxproj", "{7D636918-15ED-4F54-86B2-151AFA5D55CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B6F0E694-D2A4-4A98-9198-5FF8A995594B}.Release|x64.Build.0 = Release|x64
 		{B6F0E694-D2A4-4A98-9198-5FF8A995594B}.Release|x86.ActiveCfg = Release|Win32
 		{B6F0E694-D2A4-4A98-9198-5FF8A995594B}.Release|x86.Build.0 = Release|Win32
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Debug|x64.ActiveCfg = Debug|x64
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Debug|x64.Build.0 = Debug|x64
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Debug|x86.Build.0 = Debug|Win32
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Release|x64.ActiveCfg = Release|x64
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Release|x64.Build.0 = Release|x64
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Release|x86.ActiveCfg = Release|Win32
+		{7D636918-15ED-4F54-86B2-151AFA5D55CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
