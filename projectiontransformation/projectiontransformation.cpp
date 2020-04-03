@@ -7,7 +7,7 @@ using namespace cv;
 int main()
 {
 	Mat dst;
-	Mat src = imread("D:\\1.jpg", 1);
+	Mat src = imread("D:\\lena.jpg", 1);
 	if (src.empty())  return -1;
 
 	//变换前4

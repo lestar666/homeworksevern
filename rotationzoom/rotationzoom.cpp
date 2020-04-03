@@ -8,7 +8,7 @@ using namespace cv;
 int main()
 {
 	cv::Mat dst;
-	cv::Mat src = cv::imread("D:\\1.jpg", 1);
+	cv::Mat src = cv::imread("D:\\lena.jpg", 1);
 	if (src.empty())
 		return -1;
 	//旋转-40°
